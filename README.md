@@ -1,8 +1,4 @@
-[![GitHub issues](https://img.shields.io/github/issues/skavngr/netguard.svg?color=red)](https://github.com/skavngr/netguard/issues)
-[![GitHub issues closed](https://img.shields.io/github/issues-closed/skavngr/netguard.svg?color=green)](https://github.com/skavngr/netguard/issues)
-[![GitHub forks](https://img.shields.io/github/forks/skavngr/netguard.svg?color=yellow)](https://github.com/skavngr/netguard/network)
-[![GitHub stars](https://img.shields.io/github/stars/skavngr/netguard.svg?color=orange)](https://github.com/skavngr/netguard/stargazers)
-[![GitHub license](https://img.shields.io/github/license/skavngr/netguard.svg?color=blue)](https://github.com/skavngr/netguard/blob/master/LICENSE)
+ 
 
 # 🛡️ NetGuard v1.2 — _Unified Web Vulnerability Scanner_
 
